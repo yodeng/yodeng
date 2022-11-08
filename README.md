@@ -13,3 +13,7 @@
 <a href="https://github.com/yodeng">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodeng&layout=compact&show_icons=true&theme=buefy" />
 </a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yodeng/count.svg" />
+</p>
